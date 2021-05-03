@@ -11,3 +11,5 @@ for (i = 0; i < cArgs.length; i++){
     currentNumber = Math.floor(currentNumber/10);
   }
 }
+
+console.log(cArgs);
